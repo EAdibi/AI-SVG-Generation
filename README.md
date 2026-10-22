@@ -1,3 +1,6 @@
+**Team:** Elina Adibi ([@EAdibi](https://github.com/EAdibi)) and Josue Flores ([@Jflores427](https://github.com/Jflores427))
+*NYU Deep Learning, Spring 2026*
+
 # Deep Learning SFT 3B (2-Epoch) - SVG Generation
 
 This repository contains the end-to-end Jupyter Notebook (`Deep_Learning_SFT_3B_2048_Epoch2_Final.ipynb`) for training and inferencing a 3-Billion parameter language model (Qwen2.5-Coder-3B) to generate SVG graphics from text prompts. 
